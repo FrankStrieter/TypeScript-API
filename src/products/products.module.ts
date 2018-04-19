@@ -20,4 +20,4 @@ import { DrinksController } from './drinks/drinks.controller';
     },
   ],
 })
-export class ArticleModule {}
+export class ProductsModule {}

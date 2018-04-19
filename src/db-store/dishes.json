@@ -1,0 +1,23 @@
+{
+    "Dish-1" :
+    {
+        "guid": "Dish-1",
+        "name": "Pizza",
+        "price": 5,
+        "size": "medium"
+    },
+    "Dish-2":
+    {
+        "guid": "Dish-2",
+        "name": "Pasta",
+        "price": 7,
+        "size": "tall"
+    },
+    "Dish-3":
+    {
+        "guid": "Dish-3",
+        "name": "Ceasar Salad",
+        "price": 5,
+        "size": "small"
+    }
+}

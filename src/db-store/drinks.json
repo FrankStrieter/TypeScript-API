@@ -1,0 +1,21 @@
+[
+    {
+        "guid": "Drink-1",
+        "name": "Club Mate",
+        "price": 3.50,
+        "volume": "0,5l"
+    },
+    {
+        "guid": "Drink-2",
+        "name": "Water",
+        "price": 1.50,
+        "volume": "0,3l"
+    },
+    {
+        "guid": "Drink-3",
+        "name": "Beer",
+        "price": 3.50,
+        "volume": "0,5l"
+    }
+
+]
